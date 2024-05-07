@@ -1,0 +1,3 @@
+sonar.projectKey=pySentiment
+sonar.projectName=pySentiment
+sonar.projectVersion=1
